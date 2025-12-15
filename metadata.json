@@ -1,0 +1,7 @@
+{
+  "name": "CurateFlow",
+  "description": "A minimalist, premium content curation dashboard for social media growth.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
